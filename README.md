@@ -366,3 +366,11 @@ This repository provides a comprehensive list of AI tools and technologies, alon
 
 121. **[YOLO](https://pjreddie.com/darknet/yolo/)**  
     "You Only Look Once" - a real-time object detection system.
+
+## Contributing
+
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute.
+
+## License
+
+This repository is licensed under the CC0 License.
