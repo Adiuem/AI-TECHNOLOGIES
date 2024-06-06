@@ -361,9 +361,7 @@ This repository provides a comprehensive list of AI tools and technologies, alon
 119. **[Whisper AI](https://openai.com/research/whisper)**  
     OpenAI's model for robust speech recognition.
 
-120. **[Word2vec](https://en.wikipedia.org/wiki/Word2
-
-vec)**  
+120. **[Word2vec](https://en.wikipedia.org/wiki/Word2vec)**  
     A group of models used to produce word embeddings.
 
 121. **[YOLO](https://pjreddie.com/darknet/yolo/)**  
